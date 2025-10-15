@@ -19,8 +19,7 @@ I performed the following analytics utilizing the data -
 -	How many sources have been resolved during this period, and which type of sources have the most pendency? 
 -	Highlight the departments and their complaint resolution performance 
 -	Which region of Delhi reported the greatest number of complaints and which categories?  
--	Present any seasonal or monthly inferences 
--	Any other key observations or patterns in the data  
+-	Present any seasonal/monthly inferences 
 - If you were the Secretary of the Environment Department, Government of NCT of Delhi, how would you use this data to guide Delhi’s clean air strategy?
 
 ## Some Snipplets of the work - 
