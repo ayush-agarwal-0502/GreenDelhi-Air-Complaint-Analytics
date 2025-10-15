@@ -2,10 +2,13 @@
 Analytics project using Excel and PowerBI for Data Analytics
 
 Tools - Excel, Power BI
+
 Domain - Data Analytics, Statistics, Data Visualiztion 
+
 Skills - Pivot Tables, Slicing, Filtering, Power BI Dashboarding
 
-See full result of Analytics at - 
+# Important - 
+See full result of Analytics at - https://github.com/ayush-agarwal-0502/GreenDelhi-Air-Complaint-Analytics/blob/main/Ceew_delhi_complaint_analytics_ayush_agarwal.pdf
 
 ## About the Problem Statement - 
 
@@ -20,10 +23,19 @@ I performed the following analytics utilizing the data -
 -	Any other key observations or patterns in the data  
 - If you were the Secretary of the Environment Department, Government of NCT of Delhi, how would you use this data to guide Delhi’s clean air strategy?
 
-  ## Some Snipplets of the work - 
+## Some Snipplets of the work - 
+
 
 Geographical Distribution - 
 
+
 <img width="1540" height="858" alt="image" src="https://github.com/user-attachments/assets/333e0f53-73e5-4b3f-88e5-888ea44a514c" />
+
+
+Exploring and Visualizing the complaint Distributions -
+
+
+<img width="1308" height="678" alt="image" src="https://github.com/user-attachments/assets/a6725b22-39bc-4c5f-9312-31ae9853413f" />
+
 
 
